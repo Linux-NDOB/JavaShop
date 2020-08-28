@@ -1,0 +1,4 @@
+Almacen/Instancia.java
+ Almacen.Instancia
+Almacen/AlmacenX.java
+ Almacen.AlmacenX
